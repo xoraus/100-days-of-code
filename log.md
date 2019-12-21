@@ -4,7 +4,6 @@
 
 > ##### I love you the more in that I believe you had liked me for my own sake and for nothing else. <br> 
 *John Keats* 
-<br>
 
 **Today's Progress**:
 
@@ -20,14 +19,12 @@
 ### Day 1: December 21 Saturday, 2019
 > ##### But man is not made for defeat. A man can be destroyed but not defeated.
 Ernest Hemingway
-<br>
 
 **Today's Progress**:
-1. finished week 1 of server side Js
+- [x] todo
 
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
 ---
-
