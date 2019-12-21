@@ -21,7 +21,7 @@
 Ernest Hemingway
 
 **Today's Progress**:
-- [x] todo
+- [x] Implemented an  "Express Generator REST API" 
 
 **Thoughts:** --
 
