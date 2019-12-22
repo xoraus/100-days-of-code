@@ -28,3 +28,16 @@ Ernest Hemingway
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
 ---
+
+### Day 3: December 22 Sunday, 2019
+> ##### When you reach the end of your rope, tie a knot in it and hang on.
+Franklin D. Roosevelt
+
+**Today's Progress**:
+- [x] wrote a file called operations.js (implementing database opeartaions. 
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+---
