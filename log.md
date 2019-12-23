@@ -49,6 +49,7 @@ Heraclitus
 **Today's Progress**:
 - [x] successfully installed mongodb in Maanjaro Linux
 - [x] implemented callback hell and promises
+- [x] Implemented schema & learned about Mongoose ODM
 
 **Thoughts:** --
 
