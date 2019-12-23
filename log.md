@@ -41,3 +41,16 @@ Franklin D. Roosevelt
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
 ---
+
+### Day 4: December 23 Monday, 2019
+> ##### There is nothing permanent except change.
+Heraclitus
+
+**Today's Progress**:
+- [x] todo
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+---
