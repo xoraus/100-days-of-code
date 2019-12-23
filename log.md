@@ -47,7 +47,8 @@ Franklin D. Roosevelt
 Heraclitus
 
 **Today's Progress**:
-- [x] todo
+- [x] successfully installed mongodb in Maanjaro Linux
+- [x] implemented callback hell and promises
 
 **Thoughts:** --
 
