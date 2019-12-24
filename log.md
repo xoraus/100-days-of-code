@@ -56,3 +56,13 @@ Heraclitus
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
 ---
+### Day 4: December 23 Monday, 2019
+> ##### You cannot shake hands with a clenched fist.
+Indira Gandhi
+
+**Today's Progress**:
+- [x] implemented a rest API and used Mongoose and Mongodb
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
