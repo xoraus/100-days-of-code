@@ -66,3 +66,18 @@ Indira Gandhi
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+---
+
+### Day 4: December 23 Monday, 2019
+> ##### Let us sacrifice our today so that our children can have a better tomorrow.
+A. P. J. Abdul Kalam
+
+**Today's Progress**:
+- [x] debugging, in dishRouter file
+- [x] .
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
