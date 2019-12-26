@@ -56,7 +56,7 @@ Heraclitus
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
 ---
-### Day 4: December 23 Monday, 2019
+### Day 5: December 24 Tuesday, 2019
 > ##### You cannot shake hands with a clenched fist.
 Indira Gandhi
 
@@ -69,15 +69,27 @@ Indira Gandhi
 
 ---
 
-### Day 4: December 23 Monday, 2019
+### Day 6: December 25 Wednesday, 2019
 > ##### Let us sacrifice our today so that our children can have a better tomorrow.
 A. P. J. Abdul Kalam
 
 **Today's Progress**:
 - [x] debugging, in dishRouter file
-- [x] .
+- [x] integration of the REST API server based on the Express framework.
 
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
+---
+### Day 7: December 26 Thursday, 2019
+> ##### It is better to be feared than loved, if you cannot be both.
+Niccolo Machiavelli
+
+**Today's Progress**:
+- [x] user authentication in HTTP
+- [x] 
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
