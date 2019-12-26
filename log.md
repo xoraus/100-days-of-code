@@ -88,7 +88,7 @@ Niccolo Machiavelli
 
 **Today's Progress**:
 - [x] user authentication in HTTP
-- [x] 
+- [x] wrote a basic authentication function.
 
 **Thoughts:** --
 
