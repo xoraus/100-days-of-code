@@ -106,3 +106,26 @@ Amelia Earhart
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+### Day 9: December 27 Friday, 2019
+> ##### The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
+Amelia Earhart
+
+**Today's Progress**:
+- [x] express-cookie 
+- [x] express-session-auth
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+### Day 10: December 29 Sunday, 2019
+> ##### The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
+Amelia Earhart
+
+**Today's Progress**:
+- [x] working on Passport JWT
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
