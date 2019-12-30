@@ -108,6 +108,7 @@ Amelia Earhart
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
 ---
+
 ### Day 9: December 27 Friday, 2019
 > ##### Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 Henry James
@@ -119,6 +120,7 @@ Henry James
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
 ---
 
 ### Day 10: December 29 Sunday, 2019
@@ -131,6 +133,7 @@ Leonardo da Vinci
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
 ---
 
 ### Day 11: December 20 Monday, 2019
