@@ -2,8 +2,8 @@
 
 ### Day 0: December 20 Friday, 2019
 
-> ##### I love you the more in that I believe you had liked me for my own sake and for nothing else. <br> 
-*John Keats* 
+> ##### I love you the more in that I believe you had liked me for my own sake and for nothing else. <br>
+*John Keats*
 
 **Today's Progress**:
 
@@ -21,7 +21,7 @@
 Ernest Hemingway
 
 **Today's Progress**:
-- [x] Implemented an  "Express Generator REST API" 
+- [x] Implemented an  "Express Generator REST API"
 
 **Thoughts:** --
 
@@ -34,7 +34,7 @@ Ernest Hemingway
 Franklin D. Roosevelt
 
 **Today's Progress**:
-- [x] wrote a file called operations.js (implementing database opeartaions. 
+- [x] wrote a file called operations.js (implementing database opeartaions.
 
 **Thoughts:** --
 
@@ -100,31 +100,46 @@ Niccolo Machiavelli
 Amelia Earhart
 
 **Today's Progress**:
-- [x] express-cookie 
+- [x] express-cookie
 - [x] express-session-auth
 
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
 
+---
 ### Day 9: December 27 Friday, 2019
-> ##### The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
-Amelia Earhart
+> ##### Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+Henry James
 
 **Today's Progress**:
-- [x] express-cookie 
+- [x] express-cookie
 - [x] express-session-auth
 
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+---
 
 ### Day 10: December 29 Sunday, 2019
-> ##### The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
-Amelia Earhart
+> ##### Learning never exhausts the mind.
+Leonardo da Vinci
 
 **Today's Progress**:
 - [x] working on Passport JWT
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+---
+
+### Day 11: December 20 Monday, 2019
+> ##### Learning never exhausts the mind.
+Leonardo da Vinci
+
+**Today's Progress**:
+- [x] Reference a MongoDB document from another document
+- [x] Use Mongoose population to populate information into a document from a referenced document
 
 **Thoughts:** --
 
