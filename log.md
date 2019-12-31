@@ -136,7 +136,7 @@ Leonardo da Vinci
 
 ---
 
-### Day 11: December 20 Monday, 2019
+### Day 11: December 30 Monday, 2019
 > ##### Learning never exhausts the mind.
 Leonardo da Vinci
 
@@ -145,6 +145,20 @@ Leonardo da Vinci
 - [x] Use Mongoose population to populate information into a document from a referenced document
 - [x] Understand about secure communication between the client and server using the HTTPS protocol
 - [x] Set up the server to use HTTPS and configure the certificate and private key for use with HTTPS
+
+**Thoughts:** --
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+---
+
+### Day 12:December 31 Tuesday, 2019
+> ##### There is no charm equal to tenderness of heart.
+Jane Austen
+
+**Today's Progress**:
+- [x] Configure the Multer module to enable file uploading
+- [x] Set up your Express server to use Multer to upload files to a designated folder
 
 **Thoughts:** --
 
