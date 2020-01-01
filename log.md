@@ -163,3 +163,15 @@ Jane Austen
 **Thoughts:** --
 
 **Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+---
+### Day 13:January 01 Wednesday, 2020
+> ##### All that we see or seem is but a dream within a dream.
+Edgar Allan Poe
+
+Today's Progress:
+- [x] Use the CORS NPM module to enable CORS support
+- [x] Enable your Express application to support CORS requests by configuring the CORS module
+ 
+**Thoughts:** --
+Link to work: Side-NodeJs-Server)
