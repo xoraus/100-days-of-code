@@ -184,10 +184,9 @@ Link to work: Side-NodeJs-Server)
 Francis of Assisi
 
 Today's Progress:
-- [x] 
+- [x] started Javascript bootcamp
  
 **Thoughts:** --
-Link to work: Side-NodeJs-Server)
 
-**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+**Link to work:** [Javascript-Roadmap)](https://github.com/xoraus/Javascript-Roadmap)
 
