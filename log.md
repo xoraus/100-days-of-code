@@ -175,3 +175,19 @@ Today's Progress:
  
 **Thoughts:** --
 Link to work: Side-NodeJs-Server)
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
+---
+### Day 14:January 02 Thursday, 2020
+> ##### Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+Francis of Assisi
+
+Today's Progress:
+- [x] 
+ 
+**Thoughts:** --
+Link to work: Side-NodeJs-Server)
+
+**Link to work:** [Side-NodeJs-Server)](https://github.com/xoraus/Side-NodeJs-Server)
+
