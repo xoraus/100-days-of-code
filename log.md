@@ -190,3 +190,15 @@ Today's Progress:
 
 **Link to work:** [Javascript-Roadmap)](https://github.com/xoraus/Javascript-Roadmap)
 
+---
+### Day 15:January 03 Friday, 2020
+> ##### The only journey is the one within.
+Rainer Maria Rilke
+
+Today's Progress:
+- [x] debugging in Javascript
+ 
+**Thoughts:** --
+
+**Link to work:** [Javascript-Roadmap)](https://github.com/xoraus/Javascript-Roadmap)
+
