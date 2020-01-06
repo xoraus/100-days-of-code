@@ -202,3 +202,40 @@ Today's Progress:
 
 **Link to work:** [Javascript-Roadmap)](https://github.com/xoraus/Javascript-Roadmap)
 
+---
+---
+### Day 16:January 04 Saturday, 2020
+> ##### Good judgment comes from experience, and a lot of that comes from bad judgment.
+Will Rogers
+
+Today's Progress:
+- [x] built a npm package
+ 
+**Thoughts:** --
+
+**Link to work:** [gknight)](https://github.com/xoraus/gknight/packages/97472)
+
+---
+### Day 17:January 05 Sunday, 2020
+> ##### Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+William Blake
+
+Today's Progress:
+- [x] day off
+ 
+**Thoughts:** --
+
+**Link to work:** [---)](---)
+
+---
+### Day 18:January 06 Monday, 2020
+> ##### Life without love is like a tree without blossoms or fruit.
+Khalil Gibran
+
+Today's Progress:
+- [x] 
+ 
+**Thoughts:** --
+
+**Link to work:** [Javascript-Roadmap)](https://github.com/xoraus/Javascript-Roadmap)
+
